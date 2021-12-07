@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and HTML;
 - 🤔 I’m looking for help with projects in Python;
 - 📫 How to reach me: yagohenriquev123@gmail.com;
-- ⚡ Fun fact: Read.
+- ⚡ Fun fact: Read e Code.
 
 <div align="center">
   <a href="https://github.com/YagoMaia">
