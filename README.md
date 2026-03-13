@@ -5,7 +5,7 @@
 **Back-End Engineer · Infrastructure & DevOps · Urban Data Modeling**
 
 [![Email](https://img.shields.io/badge/Email-yagohenriquev123%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:yagohenriquev123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yago--maia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-maia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yago--maia77-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-maia77)
 
 </div>
 
